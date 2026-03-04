@@ -221,4 +221,3 @@ Serious traders treat this as a strategy — not a guarantee.
 
 If you’re interested in testing or learning more, feel free to reach out.
 
-devteam: [@Devteam](https://t.me/bot_devteam)
